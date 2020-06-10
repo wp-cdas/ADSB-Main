@@ -9,3 +9,4 @@ Central repository for the AY21 ADS-B Project
 - OpenSky 02/01/2020-02/29/2020 at **/data/ADSB/flightlist_20200201_20200229.csv**
 - OpenSky 03/01/2020-03/21/2020 at **/data/ADSB/flightlist_20200301_20200331.csv**
 - OpenSky 04/01/2020-04/30/2020 at **/data/ADSB/flightlist_20200401_20200430.csv**
+- OpenSky 05/01/2020-05/31/2020 at **/data/ADSB/flightlist_20200501_20200531.csv**
